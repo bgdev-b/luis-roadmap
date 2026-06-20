@@ -8,13 +8,15 @@ Los requisitos no funcionales, se centran en el rendimiento del sistema. Abordan
 
 Los requisitos no funcionales generalmente se definen por:
 
-- Rendimiento:Describe la rapidez con la que debe funcionar el sistema en condiciones normales y máximas, como los tiempos de carga de la página o la velocidad de procesamiento.
+- Rendimiento: Describe la rapidez con la que debe funcionar el sistema en condiciones normales y máximas, como los tiempos de carga de la página o la velocidad de procesamiento.
 
-- Escalabilidad organizacional:Garantiza que el sistema pueda manejar el crecimiento en la demanda de los usuarios o el volumen de datos sin una pérdida significativa de rendimiento.
-usabilidad:Se centra en hacer que el sistema sea intuitivo y fácil de usar, mejorando la experiencia del usuario a través del diseño y la accesibilidad.
+- Escalabilidad organizacional: Garantiza que el sistema pueda manejar el crecimiento en la demanda de los usuarios o el volumen de datos sin una pérdida significativa de rendimiento.
 
-- Confiabilidad :Garantiza que el sistema funcione de manera constante y esté disponible cuando sea necesario, incluido el tiempo de actividad del sistema y la tolerancia a errores.
-Seguridad:Especifica estándares de seguridad, como cifrado de datos, controles de acceso y medidas para evitar acceso no autorizado o violaciones de datos.
+- Usabilidad: Se centra en hacer que el sistema sea intuitivo y fácil de usar, mejorando la experiencia del usuario a través del diseño y la accesibilidad.
+
+- Confiabilidad: Garantiza que el sistema funcione de manera constante y esté disponible cuando sea necesario, incluido el tiempo de actividad del sistema y la tolerancia a errores.
+
+- Seguridad: Especifica estándares de seguridad, como cifrado de datos, controles de acceso y medidas para evitar acceso no autorizado o violaciones de datos.
 
 ## Ejemplos de requisitos no funcionales.
 

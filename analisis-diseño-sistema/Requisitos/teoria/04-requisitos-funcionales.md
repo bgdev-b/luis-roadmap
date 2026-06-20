@@ -10,19 +10,19 @@ Los requisitos funcionales se caracterizan por lo siguiente:
 
 - Acciones especificas: Definen tareas claras y específicas que el sistema debe ser capaz de realizar. Por ejemplo, procesar un pago o recuperar datos de un usuario.
 
-- Interacciones entre el usuario y el sistema:Los requisitos funcionales especifican cómo interactuarán los usuarios con el sistema, como enviar formularios, iniciar sesión o realizar transacciones.
+- Interacciones entre el usuario y el sistema: Los requisitos funcionales especifican cómo interactuarán los usuarios con el sistema, como enviar formularios, iniciar sesión o realizar transacciones.
 
-- Respuestas y salidas del sistema:Detallan cómo debe responder el sistema a ciertas entradas o eventos, como mostrar mensajes de confirmación después de enviar un formulario o procesar una transacción.
+- Respuestas y salidas del sistema: Detallan cómo debe responder el sistema a ciertas entradas o eventos, como mostrar mensajes de confirmación después de enviar un formulario o procesar una transacción.
 
-- Manejo de datos:Estos requisitos incluyen la forma en que el sistema ingresará, procesará, almacenará y recuperará los datos, garantizando que fluyan de manera eficiente y precisa.
+- Manejo de datos: Estos requisitos incluyen la forma en que el sistema ingresará, procesará, almacenará y recuperará los datos, garantizando que fluyan de manera eficiente y precisa.
 
 ## Ejemplos de requisitos funcionales.
 
-- Inicio de sesión de usuario:El sistema debe permitir a los usuarios iniciar sesión utilizando un nombre de usuario y contraseña válidos.
+- Inicio de sesión de usuario: El sistema debe permitir a los usuarios iniciar sesión utilizando un nombre de usuario y contraseña válidos.
 
-- Procesamiento de Negocios:El sistema debe procesar los pagos con tarjeta de crédito y proporcionar a los usuarios un recibo cuando las transacciones sean exitosas.
+- Procesamiento de Negocios: El sistema debe procesar los pagos con tarjeta de crédito y proporcionar a los usuarios un recibo cuando las transacciones sean exitosas.
 
-- Recuperación de datos:El sistema debe recuperar y mostrar datos específicos del usuario de la base de datos en función de las consultas de búsqueda.
+- Recuperación de datos: El sistema debe recuperar y mostrar datos específicos del usuario de la base de datos en función de las consultas de búsqueda.
 
 ## Explicación Feynman
 
